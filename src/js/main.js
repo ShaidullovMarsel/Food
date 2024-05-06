@@ -91,5 +91,4 @@ window.addEventListener('DOMContentLoaded', () => {
 }
     setClock('.timer', deadline);
 
-///i love
 });
